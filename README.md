@@ -1,2 +1,2 @@
 # rna_splicing
-Example of rosalind solution (without use of other libraries)
+example of one solution (without use of other libraries) to rna splicing problem on Rosalind
